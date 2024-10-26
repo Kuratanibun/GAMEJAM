@@ -1,0 +1,3 @@
+C:\Users\SOFIA\source\repos\Menu\Menu\x64\Debug\Menu.vcxproj.AssemblyReference.cache
+C:\Users\SOFIA\source\repos\Menu\Menu\x64\Debug\Menu.MyForm.resources
+C:\Users\SOFIA\source\repos\Menu\Menu\x64\Debug\Menu.vcxproj.GenerateResource.cache
